@@ -26,10 +26,10 @@ By analyzing these areas, we aim to provide actionable insights that can help im
 
 The dataset consists of four CSV files:
 
-* [order_items.csv:]() Details of the items in each order, including prices and costs.
-* [orders.csv:]() Information on the orders, including dates, users, and quantities.
-* [products.csv:]() Details of the products, including launch dates and names.
-* [website_sessions.csv:]() Information on web sessions, including traffic sources and devices.
+* [order_items.csv:](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis/blob/main/Dataset/order_items.csv) Details of the items in each order, including prices and costs.
+* [orders.csv:](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis/blob/main/Dataset/orders.csv) Information on the orders, including dates, users, and quantities.
+* [products.csv:](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis/blob/main/Dataset/products.csv) Details of the products, including launch dates and names.
+* [website_sessions.csv:](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis/blob/main/Dataset/website_sessions.csv) Information on web sessions, including traffic sources and devices.
 
 ## 🖇️ Model
 
