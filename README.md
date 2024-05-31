@@ -7,7 +7,20 @@ To see the complete SQL code used for this analysis, please visit the [SQL Code]
 
 ## 🪟 Overview
 
-The goal of this project is to analyze the current state of an e-commerce business selling barefoot shoes. The analysis focuses on measuring web conversion and using data to understand sales and product impact. Key metrics include gross sales, profit margins, web sessions, and traffic sources.
+The goal of this project is to analyze the current state of an e-commerce business selling barefoot shoes. The analysis focuses on measuring web conversion and using data to understand sales and product impact. 
+
+Key metrics include:
+
+* Sales Metrics: Evaluating gross sales, absolute profit margins, and identifying top-performing products.
+* Web Traffic Metrics: Measuring web sessions, identifying the most effective ads and content, and understanding traffic sources and their impact on sales.
+
+The company specializes in selling barefoot shoes and currently offers three models:
+
+* Barefoot Running
+* Barefoot Casual
+* Barefoot Hiking
+  
+By analyzing these areas, we aim to provide actionable insights that can help improve the business strategy and drive growth.
 
 ## 🗃️ Dataset
 
