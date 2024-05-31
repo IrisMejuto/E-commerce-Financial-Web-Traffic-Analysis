@@ -35,7 +35,7 @@ The dataset consists of four CSV files:
 
 Here is the relationship diagram of the tables used in this project:
 
-![image](![image]()
+![image](![image](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis/blob/main/Image/Model.png)
 
 ## ❓ Key questions the project answers
 
