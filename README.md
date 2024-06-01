@@ -3,7 +3,7 @@ This project analyzes the financial metrics and web traffic of an online e-comme
 
 ## 📊 SQL Code
 
-To see the complete SQL code used for this analysis, please visit the [SQL Code](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis/blob/main/SQL%20Code)
+To see the complete SQL code used for this analysis, please visit the [SQL Code](https://github.com/IrisMejuto/E-commerce-Financial-Web-Traffic-Analysis/blob/main/E-commerce%20Financial%20Web%20Traffic%20Analysis.ipynb)
 
 ## 🪟 Overview
 
